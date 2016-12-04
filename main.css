@@ -1,0 +1,27 @@
+div#photos {
+	background-color: #b5b5b5;
+	margin-bottom: 20px;
+	height: 300px;
+	width: 800px;
+}
+div#photos a {
+	text-decoration: none;
+}
+div#zoom {
+	background-color: black;
+}
+div img {
+	border: 2px solid black;
+}
+footer {
+	background-color: #cccc99;
+	height: 50px;
+}
+p {
+	font-size: 30px;
+	font: 
+}
+footer p {
+	font-size: 20px;
+	margin-top: 50px;
+}
